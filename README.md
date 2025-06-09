@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🐸 FroglightInteractive
 
-<!--
-**FroglightInteractive/FroglightInteractive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I’m a game & software developer passionate about crafting unique digital experiences, with a special love for the Godot game engine. 
 
-Here are some ideas to get you started:
+## ⭐ What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Design & develop games and software using [Godot Engine](https://godotengine.org/)
+- 🚀 Experiment with fun, cross-platform ideas
+- 💡 Build tools that help others create and play
+
+## 📝 Featured Project
+
+### [FroglightNotes](https://github.com/FroglightInteractive/FroglightNotes)
+A cross-platform notes app made with Godot!  
+- 🖊️ Take notes anywhere, anytime  
+- 🌈 Built for flexibility and fun  
+- 💻 Runs on multiple platforms
+
+## 🛠️ Top Skills
+
+- Godot Engine (GDScript & C#)
+- Game & UI/UX Design
+- Cross-platform Development
+
+## 🌐 Find Me Elsewhere
+
+- [itch.io](https://froglightinteractive.itch.io/) – Play my games & try my tools!
+
+---
+
+> “Making the world a little brighter, one frog-leap at a time.”
+
+Feel free to hop into my projects, leave feedback, or just say hi! 🐸✨
