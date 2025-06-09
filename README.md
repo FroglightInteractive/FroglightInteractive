@@ -18,7 +18,7 @@ A cross-platform notes app made with Godot!
 
 ## 🛠️ Top Skills
 
-- Godot Engine (GDScript & C#)
+- Godot Engine (GDScript)
 - Game & UI/UX Design
 - Cross-platform Development
 
