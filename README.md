@@ -6,7 +6,6 @@ Hi there! I’m a game & software developer with a special love for the Godot ga
 
 - 🎮 Design & develop games and software using [Godot Engine](https://godotengine.org/)
 - 🚀 Experiment with fun, cross-platform ideas
-- 💡 Build tools that help others create and play
 
 ## 📝 Featured Project
 
