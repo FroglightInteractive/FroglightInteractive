@@ -1,6 +1,6 @@
 # 🐸 FroglightInteractive
 
-Hi there! I’m a game & software developer passionate about crafting unique digital experiences, with a special love for the Godot game engine. 
+Hi there! I’m a game & software developer with a special love for the Godot game engine. 
 
 ## ⭐ What I Do
 
