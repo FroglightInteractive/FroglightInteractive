@@ -6,10 +6,10 @@
 
 ## 📝 Featured Project
 
-### [FroglightNotes](https://github.com/FroglightInteractive/FroglightNotes)
-A cross-platform notes app made with Godot!  
-- 🖊️ Take notes on any desktop platform
-- 💻 Runs on multiple platforms
+### [Minimalistic Platformer](https://github.com/FroglightInteractive/minimalistic_platformer)
+### NOTE: must be launched in godot 4.4 (not releases yet)
+A minimalistic platformer made in godot 4.4. 
+Made to show that games don't need fancy graphics to be fun and enjoyable!
 
 ## 🛠️ Top Skills
 
