@@ -1,25 +1,2 @@
-# 🐸 FroglightInteractive
-
-## ⭐ What I Do
-
-- 🎮 Design & develop games and software using [Godot Engine](https://godotengine.org/)
-
-## 📝 Featured Project
-
-### [Minimalistic Platformer](https://github.com/FroglightInteractive/minimalistic_platformer)
-### NOTE: must be launched in godot 4.4 (not releases yet)
-A minimalistic platformer made in godot 4.4. 
-Made to show that games don't need fancy graphics to be fun and enjoyable!
-
-## 🛠️ Top Skills
-
-- Godot Engine (GDScript)
-- Game & UI/UX Design
-
-## 🌐 Find Me Elsewhere
-
-- [itch.io](https://froglightinteractive.itch.io/) – Play my games & try my tools!
-
----
-
-Feel free to hop into my projects, leave feedback, or just say hi! 🐸✨
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=froglightinteractive&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=froglightinteractive&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
